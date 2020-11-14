@@ -8,6 +8,6 @@ tags:
 	- 杂谈
 ---
 
-![ico原来的样子](/assets/blogImg/wlop.png)  
+![Blog](/assets/blogImg/blog1.png)  
 
 [编辑](https://github.com/KUN-NT/kun-nt.github.io/edit/blog/source/_posts/hello-world.md)
