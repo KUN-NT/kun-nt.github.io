@@ -63,7 +63,7 @@ toc_empty_wording: '目录，不存在的…'
 top: true
 
 # 是否在新窗口打开链接
-open_in_new: true
+# open_in_new: true
 
 # Miscellaneous
 baidu_analytics: 'a30844fa2bcbce0a9e001fe06cefeddf'
@@ -71,7 +71,7 @@ google_analytics: false
 favicon: /assets/img/favicon.ico
 
 #你的头像url
-avatar: /assets/blogImg/logo.png
+avatar: /assets/blogImg/logo.jpg
 
 #是否开启分享
 share_jia: true
