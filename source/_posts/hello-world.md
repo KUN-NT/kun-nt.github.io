@@ -36,3 +36,6 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+[编辑](https://github.com/KUN-NT/kun-nt.github.io/edit/blog/source/_posts/hello-world.md)
